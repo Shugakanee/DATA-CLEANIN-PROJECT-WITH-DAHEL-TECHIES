@@ -1,0 +1,2 @@
+# DATA-CLEANIN-PROJECT-WITH-DAHEL-TECHIES
+Churn model with 10000 rows and 14 Columns
